@@ -6,3 +6,6 @@
 
 <a href="https://www.linkedin.com/in/marcellaamorim/"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Marcella%20Amorim-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcellaamorim/"/></a>
 <a href="mailto:marcella.amorimsa@gmail.com"><img alt="Gmail Badge" src="https://img.shields.io/badge/-marcella.amorimsa@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcella.amorimsa@gmail.com"/></a>
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2397FF48&title_bg=%23F435C1&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
