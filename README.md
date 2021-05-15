@@ -8,4 +8,4 @@
 <a href="mailto:marcella.amorimsa@gmail.com"><img alt="Gmail Badge" src="https://img.shields.io/badge/-marcella.amorimsa@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcella.amorimsa@gmail.com"/></a>
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2397FF48&title_bg=%23F435C1&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%232EA0EB&title_bg=%23D941C7&icon=clyp.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
