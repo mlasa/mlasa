@@ -1,6 +1,6 @@
 ### Hey I'm Marcella! 👋
 
-[US] Hello, I'm Marcella,I've graduated in Information Systems in December 2020 and started programming for real in 2020, and liked so much!. Here you can find some of my projects.
+[US] Hello, I'm Marcella,I've graduated in Information Systems in December 2020 and started focusing in programming in 2020, and liked so much!. Here you can find some of my projects.
 
 [BR] Olá, sou a Marcella, e me graduei em dezembro de 2020 no curso de Sistemas de Informação. Em 2020 comecei a programar de verdade e gostei muito. Aqui você pode encontrar alguns dos meus projetos.
 
