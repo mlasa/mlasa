@@ -1,14 +1,33 @@
 ## Olá, Marcella aqui! 👋
+  <img align="right" alt="Marcella_dev" src="https://cdn.discordapp.com/attachments/832419696073506849/870469223787401296/picasion.com_eeebcff83b240faddb1d72ee5014cf8e.gif">
+
+
+[US]
+    <p>
+     👔 - Today I'm a front-end developer
+  </p>
+
+ <p>
+     🌱- Studyin React and JavaScript
+  </p>
+  
+
+[BR]
+  <p>
+     👔 - Atualmente trabalho com front-end
+  </p>
+
+ <p>
+     🌱- Estou estudando React e JavaScript
+  </p>
+
 
 <div>
-  <img align="right" alt="Marcella_dev" src="https://cdn.discordapp.com/attachments/832419696073506849/870469223787401296/picasion.com_eeebcff83b240faddb1d72ee5014cf8e.gif">
   <a href="https://github.com/mlasa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlasa&layout=compact&langs_count=7&theme=dracula"/>
 </div>
     
-[US] Hello, I'm Marcella,I've graduated in Information Systems in December 2020 and started focusing in programming in 2020, and liked so much!. Here you can find some of my projects.
 
-[BR] Olá, sou a Marcella, e me graduei em dezembro de 2020 no curso de Sistemas de Informação. Em 2020 comecei a programar de verdade e gostei muito. Aqui você pode encontrar alguns dos meus projetos.
 
 
   <div style="display: inline_block"><br>
