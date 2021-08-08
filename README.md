@@ -1,25 +1,13 @@
-## Olá, Marcella aqui! 👋
+## Hello, Marcella here! 👋
   <img align="right" alt="Marcella_dev" src="https://cdn.discordapp.com/attachments/832419696073506849/870469223787401296/picasion.com_eeebcff83b240faddb1d72ee5014cf8e.gif">
 
+<strong>About me</strong>
+- I live in Campinas, São Paulo.
+- I'am working as a front end developer in a startup.
+- My focus nowadays is front end with React, but I have some skills in back end with Node.js too.
 
-[US]
-    <p>
-     👔 - Today I'm a front-end developer
-  </p>
-
- <p>
-     🌱- Studyin React and JavaScript
-  </p>
-  
-
-[BR]
-  <p>
-     👔 - Atualmente trabalho com front-end
-  </p>
-
- <p>
-     🌱- Estou estudando React e JavaScript
-  </p>
+<strong>About my plans</strong>
+- I want to learn Java for web applications.
 
 
 <div>
