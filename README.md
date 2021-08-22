@@ -8,6 +8,7 @@
 
 <strong>About my plans</strong>
 - I want to learn Java for web applications.
+- To masterize React.js.
 
 
 <div>
