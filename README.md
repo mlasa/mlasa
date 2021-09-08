@@ -5,10 +5,10 @@
 - I live in Campinas, São Paulo.
 - I'am working as a front end developer in a startup.
 - My focus nowadays is front end with React, but I have some skills in back end with Node.js too.
+- I am working mainly with Javascript.
 
 <strong>About my plans</strong>
 - I want to learn Java for web applications.
-- To masterize React.js.
 
 
 <div>
