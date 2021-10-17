@@ -8,8 +8,10 @@
 - I am working mainly with Javascript.
 
 <strong>About my plans</strong>
-- I want to learn Java for web applications.
+- I want to improve my Javascript skills, focusing in front end development nowadays.
 
+<strong>I'm also curious about</strong>
+- IoT
 
 <div>
   <a href="https://github.com/mlasa">
