@@ -3,22 +3,14 @@
 
 <strong>About me</strong>
 - I live in Campinas, São Paulo.
-- I'am working as a front end developer in a startup.
-- My focus nowadays is front end with React, but I have some skills in back end with Node.js too.
-- I am working mainly with Javascript.
-
-<strong>About my plans</strong>
-- I want to improve my Javascript skills, focusing in front end development nowadays.
-
-<strong>I'm also curious about</strong>
-- IoT
+- I'am working as a fullstack developer in a company where the main product is softwares for safety at work.
+- Nowadays I don't have any stack to focus on, because in my moment I'm studying according to need.
+- Currently studying PHP, Ionic and another programming stuffs.
 
 <div>
   <a href="https://github.com/mlasa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mlasa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-    
-
 
 
   <div style="display: inline_block"><br>
