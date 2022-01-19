@@ -3,6 +3,7 @@
 
 <strong>About me</strong>
 - I live in Campinas, São Paulo.
+- Like so much books of fantasy and police romance, and I'm also a little bit fan of games, but I really enjoy offline time with people in my life.
 - I'am working as a fullstack developer in a company where the main product is softwares for safety at work.
 - Nowadays I don't have any stack to focus on, because in my moment I'm studying according to need.
 - Currently studying PHP, Ionic and another programming stuffs.
