@@ -7,7 +7,6 @@
 - I'am working as a front end developer in a consulting company.
 - Nowadays I don't have any stack to focus on, because in my moment I'm studying according to need.
   - Currently studying Angular and .NET.
-- Recently I have discovered a page to practice CSS, so sometimes I like to code in CSS Battle: https://cssbattle.dev/player/mlasa
 
 <div>
   <a href="https://github.com/mlasa">
