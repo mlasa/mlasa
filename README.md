@@ -3,18 +3,15 @@
 
 <strong>About me</strong>
 - I live in Campinas, São Paulo.
-- Like so much books of fantasy and police romance, and I'm also a little bit fan of games, but I really enjoy offline time with people in my life.
+- Like so much books of fantasy and police romance, and I'm love to play PlayStation, but I really enjoy offline freetime with people in my life.
 - I'am working as a front end developer in a consulting company.
 - Nowadays I don't have any stack to focus on, because in my moment I'm studying according to need.
-  - Currently studying Angular and .NET.
-
-<div>
-  <a href="https://github.com/mlasa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mlasa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+  - I am currently studying Angular and .NET.
 
 
-  <div style="display: inline_block"><br>
+## 
+
+ <div style="display: inline_block"><br>
   <img align="center" alt="Marcella-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Marcella-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Marcella-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
