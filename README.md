@@ -6,7 +6,7 @@
 - Like so much books of fantasy and police romance, and I'm love to play PlayStation, but I really enjoy offline freetime with people in my life.
 - I'am working as a front end developer in a consulting company.
 - Nowadays I don't have any stack to focus on, because in my moment I'm studying according to need.
-  - I am currently studying Angular and .NET.
+- I want to improve my backend developer skills
 
 
 ## 
